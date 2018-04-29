@@ -1,4 +1,4 @@
-# generate_testpersons.py
+# generate_persons.py
 
 Small python3 script using some name data from [Statistics Norway (SSB)](https://www.ssb.no) to generate fake persons for testing.
 
